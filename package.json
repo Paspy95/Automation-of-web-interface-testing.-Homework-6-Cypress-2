@@ -1,0 +1,22 @@
+{
+  "name": "homework-7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paspy95/Automation-of-web-interface-testing.-Homework-6-Cypress-2.git"
+  },
+  "author": "Gudov Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paspy95/Automation-of-web-interface-testing.-Homework-6-Cypress-2/issues"
+  },
+  "homepage": "https://github.com/Paspy95/Automation-of-web-interface-testing.-Homework-6-Cypress-2#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.16.0"
+  }
+}

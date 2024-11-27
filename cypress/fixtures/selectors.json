@@ -1,0 +1,6 @@
+{   
+    "movie_title": ".conf-step__movie-title",
+    "movie": ".movie",
+    "session": ":nth-child(2) > .movie-seances__time",
+    "days": ".page-nav__day"
+}

@@ -1,0 +1,13 @@
+{
+  "validEmail": "qamid@qamid.ru",
+  "validPass": "qamid",
+  "administrative": "Администраторррская",
+
+  "sadEmail": "flex@mail.ru",
+  "sadPass": "zayac",
+  "error": "Ошибка авторизации",
+
+  "email": "[name ='email']",
+  "password": "[name ='password']",
+  "loginButton": ".login__button"
+}
